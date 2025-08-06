@@ -1,5 +1,3 @@
-package cs3110.hw3;
-
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
