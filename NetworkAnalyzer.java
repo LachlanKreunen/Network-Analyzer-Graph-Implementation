@@ -51,8 +51,6 @@ public class NetworkAnalyzer {
         return max;
     }
     
-    //EXTRA CREDIT DO IF HAVE TIME
-    
     
     // Kosaraju’s algorithm method here
     public int countMinToReconnect(Map<String,String> simplexConnectionsToRemove) {
